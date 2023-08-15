@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7fd5297.css",
+    "main.js": "/static/js/main.cb4668ed.js",
+    "static/media/me.png": "/static/media/me.6d2559e43406a93b595d.png",
+    "static/media/cv.pdf": "/static/media/cv.8be4c458ebb6084732a6.pdf",
+    "static/media/me-about.jpg": "/static/media/me-about.4729c714e6005b650736.jpg",
+    "static/media/portfolio5.jpg": "/static/media/portfolio5.14e1e907668b28d5b788.jpg",
+    "static/media/portfolio7.jpg": "/static/media/portfolio7.40e78f6a8a6b7f8a0d92.jpg",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.0655ee906f782d44d0f3.jpg",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.3d47fce145a7ff4701f6.jpg",
+    "static/media/portfolio8.jpg": "/static/media/portfolio8.68904b50da51333c38b2.jpg",
+    "static/media/portfolio9.jpg": "/static/media/portfolio9.5b98587325fc0bc01c6e.jpg",
+    "static/media/portfolio1.jpg": "/static/media/portfolio1.8a35d83d7b82d6880eb7.jpg",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.97ccda8008a05d92cbef.jpg",
+    "static/media/avatar9.jpg": "/static/media/avatar9.ffd877aefe1f0d03e88a.jpg",
+    "static/media/avatar4.jpg": "/static/media/avatar4.0b9d14a355f8823174d3.jpg",
+    "static/media/avatar3.jpg": "/static/media/avatar3.793fe2553ffbf2b68f88.jpg",
+    "static/media/avatar5.jpg": "/static/media/avatar5.d79e17f93efa83de758f.jpg",
+    "static/media/avatar2.jpg": "/static/media/avatar2.3986ed278600df5e5654.jpg",
+    "static/media/portfolio_live_demo.jpg": "/static/media/portfolio_live_demo.447efa46884c30a58830.jpg",
+    "static/media/avatar1.jpg": "/static/media/avatar1.fcf36d8e3301fb33761b.jpg",
+    "static/media/avatar7.jpg": "/static/media/avatar7.c6b8014604d06b15cee0.jpg",
+    "static/media/avatar10.jpg": "/static/media/avatar10.b9773ba73fd3203c4517.jpg",
+    "static/media/portfolio6.jpg": "/static/media/portfolio6.1ce3289fd06e4bc15a15.jpg",
+    "static/media/avatar6.jpg": "/static/media/avatar6.d0b30def4fe07e149e2e.jpg",
+    "static/media/avatar8.jpg": "/static/media/avatar8.2f835c7d76eed37cdf96.jpg",
+    "index.html": "/index.html",
+    "main.d7fd5297.css.map": "/static/css/main.d7fd5297.css.map",
+    "main.cb4668ed.js.map": "/static/js/main.cb4668ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7fd5297.css",
+    "static/js/main.cb4668ed.js"
+  ]
+}
